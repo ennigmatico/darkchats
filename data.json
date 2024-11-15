@@ -1,0 +1,5960 @@
+{
+    "pages": [
+        {
+            "id": 349,
+            "title": "The Conversation",
+            "url": "https:\/\/theconversation.com",
+            "description": "Plataforma de art\u00edculos escritos por acad\u00e9micos y expertos en diversos temas.",
+            "keywords": [
+                "educacion",
+                "articulos",
+                "Mx"
+            ],
+            "likes": 1,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [
+                    "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMzAuMC4wLjAtMTM2Nng3NjgtZXMtNDE5"
+                ],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 133,
+            "title": "Partes Diesel Oaxaca",
+            "url": "https:\/\/www.dieseloaxaca.com.mx",
+            "description": "Especialistas en refacciones para motores diesel y equipo pesado.",
+            "keywords": [
+                "diesel",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 1,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": [
+                    "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMzAuMC4wLjAtMTM2Nng3NjgtZXMtNDE5"
+                ]
+            }
+        },
+        {
+            "id": 82,
+            "title": "Fiverr",
+            "url": "https:\/\/www.fiverr.com",
+            "description": "Plataforma de preguntas y respuestas para desarrolladores.",
+            "keywords": [
+                "freelance",
+                "Mx"
+            ],
+            "likes": 1,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [
+                    "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMzAuMC4wLjAtMTM2Nng3NjgtZXMtNDE5"
+                ],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 57,
+            "title": "Food Network",
+            "url": "https:\/\/www.foodnetwork.com",
+            "description": "Plataforma de comercio electr\u00f3nico que permite la compra y venta de productos globalmente.",
+            "keywords": [
+                "cocina",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 1,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": [
+                    "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMzAuMC4wLjAtMTM2Nng3NjgtZXMtNDE5"
+                ]
+            }
+        },
+        {
+            "id": 259,
+            "title": "Banco Azteca",
+            "url": "https:\/\/www.bancoazteca.com.mx",
+            "description": "Banco mexicano que brinda servicios financieros accesibles, como cuentas de ahorro, cr\u00e9ditos, seguros y soluciones de ahorro, orientados a mejorar la calidad de vida de sus clientes.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "cuentas",
+                "cr\u00e9ditos",
+                "seguridad",
+                "Mx"
+            ],
+            "likes": 1,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [
+                    "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMzAuMC4wLjAtMTM2Nng3NjgtZXMtNDE5"
+                ],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 119,
+            "title": "AutoZone M\u00e9xico",
+            "url": "https:\/\/www.autozone.com.mx",
+            "description": "Tienda especializada en refacciones y accesorios automotrices.",
+            "keywords": [
+                "refacciones",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 44,
+            "title": "iCloud",
+            "url": "https:\/\/www.icloud.com",
+            "description": "Sitio de noticias deportivas, cubre eventos y proporciona an\u00e1lisis en tiempo real.",
+            "keywords": [
+                "almacenamiento",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 8,
+            "title": "LinkedIn",
+            "url": "https:\/\/www.linkedin.com",
+            "description": "Red profesional enfocada en conectar a personas y empresas en el \u00e1mbito laboral y de negocios.",
+            "keywords": [
+                "empleo",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 61,
+            "title": "The Weather Channel",
+            "url": "https:\/\/www.weather.com",
+            "description": "Motor de b\u00fasqueda que proporciona resultados de b\u00fasqueda web, im\u00e1genes y videos.",
+            "keywords": [
+                "clima",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 1,
+            "title": "Google Search",
+            "url": "https:\/\/www.google.com",
+            "description": "El motor de b\u00fasqueda m\u00e1s popular del mundo, ofrece una amplia gama de servicios y herramientas.",
+            "keywords": [
+                "buscar",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 50,
+            "title": "CNBC Finance",
+            "url": "https:\/\/www.cnbc.com\/finance",
+            "description": "Portal de noticias financieras y del mercado de valores con an\u00e1lisis en tiempo real.",
+            "keywords": [
+                "finanzas",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 319,
+            "title": "FlexJobs",
+            "url": "https:\/\/www.flexjobs.com",
+            "description": "Plataforma de empleos flexibles y remotos.",
+            "keywords": [
+                "empleo",
+                "flexible",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 308,
+            "title": "Indeed Jobs",
+            "url": "https:\/\/www.indeed.com\/jobs",
+            "description": "Buscador de empleos con ofertas en diversas industrias.",
+            "keywords": [
+                "empleo",
+                "busqueda",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 269,
+            "title": "Banco Autofin",
+            "url": "https:\/\/www.autofin.com.mx",
+            "description": "Banco mexicano que ofrece servicios financieros especializados en cr\u00e9ditos automotrices, cuentas de ahorro y seguros.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "cr\u00e9ditos",
+                "automotriz",
+                "seguros",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 291,
+            "title": "Inmuebles24",
+            "url": "https:\/\/www.inmuebles24.com",
+            "description": "Principal portal inmobiliario en M\u00e9xico para b\u00fasqueda de propiedades en renta y venta.",
+            "keywords": [
+                "alquiler",
+                "propiedades",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 188,
+            "title": "Gobierno de Coahuila",
+            "url": "https:\/\/www.coahuila.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Coahuila.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 234,
+            "title": "Skillshare",
+            "url": "https:\/\/www.skillshare.com",
+            "description": "Plataforma de aprendizaje creativo con clases de expertos en diferentes campos.",
+            "keywords": [
+                "educacion",
+                "creatividad",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 302,
+            "title": "Century 21 M\u00e9xico",
+            "url": "https:\/\/www.century21mexico.com",
+            "description": "Red internacional de bienes ra\u00edces con opciones de renta en M\u00e9xico.",
+            "keywords": [
+                "alquiler",
+                "inmobiliaria",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 236,
+            "title": "Figma",
+            "url": "https:\/\/www.figma.com",
+            "description": "Herramienta de dise\u00f1o de interfaces y prototipado colaborativo.",
+            "keywords": [
+                "dise\u00f1o",
+                "ux",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 143,
+            "title": "Contramar",
+            "url": "https:\/\/www.contramar.com.mx",
+            "description": "Ic\u00f3nico restaurante de mariscos en la Ciudad de M\u00e9xico.",
+            "keywords": [
+                "restaurantes",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 354,
+            "title": "ArtStation",
+            "url": "https:\/\/www.artstation.com",
+            "description": "Plataforma para artistas digitales donde mostrar y descubrir arte profesional.",
+            "keywords": [
+                "arte",
+                "digital",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 273,
+            "title": "Banco Bancrea",
+            "url": "https:\/\/www.bancrea.com.mx",
+            "description": "Banco mexicano que ofrece servicios financieros como cuentas de ahorro, cr\u00e9ditos, inversiones y seguros.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "ahorro",
+                "cr\u00e9ditos",
+                "inversiones",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 149,
+            "title": "Palacio de Bellas Artes",
+            "url": "https:\/\/www.bellasartes.gob.mx",
+            "description": "M\u00e1ximo recinto cultural de M\u00e9xico, ubicado en el Centro Hist\u00f3rico | CDMX, MX.",
+            "keywords": [
+                "cultura",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 295,
+            "title": "Trovit",
+            "url": "https:\/\/www.trovit.com.mx",
+            "description": "Buscador de propiedades que agrupa ofertas de diferentes portales inmobiliarios.",
+            "keywords": [
+                "alquiler",
+                "propiedades",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 25,
+            "title": "ESPN",
+            "url": "https:\/\/www.espn.com",
+            "description": "Sitio de noticias deportivas, cubre eventos y proporciona an\u00e1lisis en tiempo real.",
+            "keywords": [
+                "deportes",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 148,
+            "title": "Chapultepec",
+            "url": "https:\/\/www.chapultepec.cdmx.gob.mx",
+            "description": "Sitio oficial del Bosque de Chapultepec, principal pulm\u00f3n verde de la Ciudad de M\u00e9xico | CDMX, MX.",
+            "keywords": [
+                "parques",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 195,
+            "title": "Gobierno de Veracruz",
+            "url": "https:\/\/www.veracruz.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Veracruz.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 330,
+            "title": "Jobspresso",
+            "url": "https:\/\/jobspresso.co",
+            "description": "Plataforma de empleos remotos en tecnolog\u00eda y programaci\u00f3n.",
+            "keywords": [
+                "empleo",
+                "remoto",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 225,
+            "title": "freeCodeCamp",
+            "url": "https:\/\/www.freecodecamp.org",
+            "description": "Organizaci\u00f3n sin fines de lucro que ense\u00f1a programaci\u00f3n gratuitamente.",
+            "keywords": [
+                "educacion",
+                "programacion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 161,
+            "title": "ISSSTE",
+            "url": "https:\/\/www.issste.gob.mx",
+            "description": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
+            "keywords": [
+                "salud",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 324,
+            "title": "Guru",
+            "url": "https:\/\/www.guru.com",
+            "description": "Marketplace de freelancers para proyectos en diversas \u00e1reas.",
+            "keywords": [
+                "empleo",
+                "freelance",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 150,
+            "title": "Mercado de la Merced",
+            "url": "https:\/\/www.merced.cdmx.gob.mx",
+            "description": "El mercado tradicional m\u00e1s grande de la Ciudad de M\u00e9xico | CDMX, MX.",
+            "keywords": [
+                "comercio",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 286,
+            "title": "Las Ventanas al Para\u00edso",
+            "url": "https:\/\/www.rosewoodhotels.com\/lasventanas",
+            "description": "Resort boutique en Los Cabos conocido por su servicio excepcional y experiencias \u00fanicas.",
+            "keywords": [
+                "hoteles",
+                "boutique",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 92,
+            "title": "Zapier",
+            "url": "https:\/\/www.zapier.com",
+            "description": "Herramienta de automatizaci\u00f3n para conectar aplicaciones y servicios.",
+            "keywords": [
+                "automatizacion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 208,
+            "title": "GameMaker",
+            "url": "https:\/\/gamemaker.io",
+            "description": "Motor de desarrollo de juegos especializado en crear juegos 2D de manera r\u00e1pida.",
+            "keywords": [
+                "desarrollo",
+                "juegos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 229,
+            "title": "CGTrader",
+            "url": "https:\/\/www.cgtrader.com",
+            "description": "Mercado digital para modelos 3D y contenido de realidad virtual.",
+            "keywords": [
+                "arte",
+                "3d",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 287,
+            "title": "Viceroy Los Cabos",
+            "url": "https:\/\/www.viceroyhotelsandresorts.com\/loscabos",
+            "description": "Hotel de dise\u00f1o arquitect\u00f3nico impresionante con amenidades de lujo en San Jos\u00e9 del Cabo.",
+            "keywords": [
+                "hoteles",
+                "dise\u00f1o",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 32,
+            "title": "GitHub",
+            "url": "https:\/\/www.github.com",
+            "description": "Plataforma de desarrollo colaborativo para alojar y revisar c\u00f3digo, usando Git para control de versiones.",
+            "keywords": [
+                "codigo",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 15,
+            "title": "Apple",
+            "url": "https:\/\/www.apple.com",
+            "description": "Compa\u00f1\u00eda innovadora en hardware, software y servicios tecnol\u00f3gicos con gran enfoque en dise\u00f1o.",
+            "keywords": [
+                "tecnologia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 38,
+            "title": "Spotify",
+            "url": "https:\/\/www.spotify.com",
+            "description": "Servicio de streaming de m\u00fasica y podcasts con millones de canciones disponibles.",
+            "keywords": [
+                "musica",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 89,
+            "title": "Okta",
+            "url": "https:\/\/www.okta.com",
+            "description": "Plataforma de chat comunitario para comunicaci\u00f3n en tiempo real.",
+            "keywords": [
+                "seguridad",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 346,
+            "title": "Big Think",
+            "url": "https:\/\/bigthink.com",
+            "description": "Plataforma de ideas y debates sobre temas actuales y futuros.",
+            "keywords": [
+                "ideas",
+                "debates",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 206,
+            "title": "Nintendo eShop",
+            "url": "https:\/\/www.nintendo.com\/store",
+            "description": "Tienda digital oficial de Nintendo para comprar juegos y contenido descargable.",
+            "keywords": [
+                "juegos",
+                "nintendo",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 20,
+            "title": "Tumblr",
+            "url": "https:\/\/www.tumblr.com",
+            "description": "Plataforma de microblogging para expresarse y compartir contenido multimedia variado.",
+            "keywords": [
+                "blogs",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 186,
+            "title": "Gobierno de Aguascalientes",
+            "url": "https:\/\/www.aguascalientes.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Aguascalientes.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 189,
+            "title": "Gobierno de Hidalgo",
+            "url": "https:\/\/www.hidalgo.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Hidalgo.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 39,
+            "title": "Coursera",
+            "url": "https:\/\/www.coursera.org",
+            "description": "Plataforma de educaci\u00f3n en l\u00ednea que ofrece cursos, certificaciones y t\u00edtulos universitarios.",
+            "keywords": [
+                "educacion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 317,
+            "title": "Remote OK",
+            "url": "https:\/\/remoteok.io",
+            "description": "Plataforma de empleos remotos en tecnolog\u00eda y programaci\u00f3n.",
+            "keywords": [
+                "empleo",
+                "remoto",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 153,
+            "title": "UNAM",
+            "url": "https:\/\/www.unam.mx",
+            "description": "Universidad Nacional Aut\u00f3noma de M\u00e9xico, m\u00e1xima casa de estudios | CDMX, MX.",
+            "keywords": [
+                "educacion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 62,
+            "title": "Weibo",
+            "url": "https:\/\/www.weibo.com",
+            "description": "Red social china similar a Twitter, para compartir actualizaciones y contenido.",
+            "keywords": [
+                "social",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 174,
+            "title": "Gobierno de Chiapas",
+            "url": "https:\/\/www.chiapas.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Chiapas.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 303,
+            "title": "Coldwell Banker",
+            "url": "https:\/\/www.coldwellbanker.com.mx",
+            "description": "Empresa inmobiliaria con amplia cartera de propiedades en renta.",
+            "keywords": [
+                "alquiler",
+                "propiedades",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 118,
+            "title": "Grupo Andrade",
+            "url": "https:\/\/www.grupoandrade.com",
+            "description": "Red de concesionarios automotrices con m\u00faltiples marcas y servicios en M\u00e9xico.",
+            "keywords": [
+                "automotriz",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 154,
+            "title": "IPN",
+            "url": "https:\/\/www.ipn.mx",
+            "description": "Instituto Polit\u00e9cnico Nacional, instituci\u00f3n l\u00edder en educaci\u00f3n tecnol\u00f3gica | CDMX, MX.",
+            "keywords": [
+                "educacion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 256,
+            "title": "BanCoppel",
+            "url": "https:\/\/www.bancoppel.com.mx",
+            "description": "Instituci\u00f3n financiera que brinda servicios bancarios accesibles como cuentas de ahorro, cr\u00e9ditos personales, tarjetas y seguros, enfoc\u00e1ndose en la inclusi\u00f3n financiera de todos los mexicanos.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "cr\u00e9ditos",
+                "tarjetas",
+                "seguros",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 343,
+            "title": "Brain Pickings",
+            "url": "https:\/\/www.brainpickings.org",
+            "description": "Blog que ofrece reflexiones y an\u00e1lisis sobre literatura, arte y ciencia.",
+            "keywords": [
+                "literatura",
+                "arte",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 169,
+            "title": "Gobierno de Puebla",
+            "url": "https:\/\/www.puebla.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Puebla.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 108,
+            "title": "Coppel",
+            "url": "https:\/\/www.coppel.com",
+            "description": "Tienda departamental mexicana enfocada en moda, hogar y servicios financieros.",
+            "keywords": [
+                "retail",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 11,
+            "title": "Baidu",
+            "url": "https:\/\/www.baidu.com",
+            "description": "El motor de b\u00fasqueda m\u00e1s popular de China, proporcionando informaci\u00f3n y servicios localizados.",
+            "keywords": [
+                "busqueda",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 322,
+            "title": "Freelancer",
+            "url": "https:\/\/www.freelancer.com",
+            "description": "Marketplace de freelancers para proyectos y trabajos remotos.",
+            "keywords": [
+                "empleo",
+                "freelance",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 199,
+            "title": "Roblox Developer",
+            "url": "https:\/\/developer.roblox.com",
+            "description": "Plataforma para crear y publicar juegos multiplataforma usando Roblox Studio.",
+            "keywords": [
+                "desarrollo",
+                "juegos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 67,
+            "title": "IKEA",
+            "url": "https:\/\/www.ikea.com",
+            "description": "Tienda de muebles y art\u00edculos para el hogar con dise\u00f1o escandinavo.",
+            "keywords": [
+                "muebles",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 6,
+            "title": "Twitter",
+            "url": "https:\/\/www.twitter.com",
+            "description": "Plataforma de microblogging donde los usuarios comparten pensamientos, noticias y actualizaciones en tiempo real.",
+            "keywords": [
+                "tweets",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 262,
+            "title": "Banco Invex",
+            "url": "https:\/\/www.invex.com.mx",
+            "description": "Instituci\u00f3n financiera mexicana que brinda servicios de banca minorista y primaria, incluyendo cuentas de ahorro, tarjetas de cr\u00e9dito, pr\u00e9stamos y servicios de inversi\u00f3n personalizados.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "cuentas",
+                "pr\u00e9stamos",
+                "inversiones",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 30,
+            "title": "Quora",
+            "url": "https:\/\/www.quora.com",
+            "description": "Plataforma de preguntas y respuestas donde usuarios comparten conocimientos sobre variados temas.",
+            "keywords": [
+                "preguntas",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 304,
+            "title": "RE\/MAX M\u00e9xico",
+            "url": "https:\/\/www.remax.com.mx",
+            "description": "Red global de bienes ra\u00edces con opciones de renta en ubicaciones premium.",
+            "keywords": [
+                "alquiler",
+                "inmobiliaria",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 136,
+            "title": "Grupo Xcaret",
+            "url": "https:\/\/www.xcaret.com",
+            "description": "Parques tem\u00e1ticos y hoteles de lujo en la Riviera Maya, experiencias culturales y naturales.",
+            "keywords": [
+                "turismo",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 246,
+            "title": "Banorte",
+            "url": "https:\/\/www.banorte.com",
+            "description": "Uno de los bancos m\u00e1s grandes de M\u00e9xico, proporciona servicios bancarios, inversiones, seguros y soluciones financieras.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "inversiones",
+                "seguros",
+                "soluciones",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 3,
+            "title": "Facebook",
+            "url": "https:\/\/www.facebook.com",
+            "description": "Red social que conecta a personas en todo el mundo para compartir actualizaciones, fotos y eventos.",
+            "keywords": [
+                "social",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 152,
+            "title": "Xochimilco Tur\u00edstico",
+            "url": "https:\/\/www.xochimilco.cdmx.gob.mx",
+            "description": "Informaci\u00f3n tur\u00edstica de los canales y trajineras de Xochimilco | CDMX, MX.",
+            "keywords": [
+                "turismo",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 172,
+            "title": "Gobierno de Quer\u00e9taro",
+            "url": "https:\/\/www.queretaro.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Quer\u00e9taro.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 176,
+            "title": "Gobierno de Sonora",
+            "url": "https:\/\/www.sonora.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Sonora.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 202,
+            "title": "GOG.com",
+            "url": "https:\/\/www.gog.com",
+            "description": "Tienda de juegos digitales especializada en t\u00edtulos cl\u00e1sicos y libres de DRM.",
+            "keywords": [
+                "juegos",
+                "retro",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 170,
+            "title": "Gobierno de Veracruz",
+            "url": "https:\/\/www.veracruz.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Veracruz.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 355,
+            "title": "DeviantArt",
+            "url": "https:\/\/www.deviantart.com",
+            "description": "Comunidad art\u00edstica en l\u00ednea para compartir y comercializar arte digital.",
+            "keywords": [
+                "arte",
+                "comunidad",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 29,
+            "title": "Shopify",
+            "url": "https:\/\/www.shopify.com",
+            "description": "Plataforma de comercio electr\u00f3nico para crear y gestionar tiendas en l\u00ednea con facilidad.",
+            "keywords": [
+                "ecommerce",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 253,
+            "title": "Banregio",
+            "url": "https:\/\/www.banregio.com",
+            "description": "Banco regional en M\u00e9xico, enfocado en ofrecer servicios financieros a peque\u00f1as y medianas empresas, as\u00ed como a individuos.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "empresas",
+                "cuentas",
+                "cr\u00e9ditos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 52,
+            "title": "Mayo Clinic",
+            "url": "https:\/\/www.mayoclinic.org",
+            "description": "Prestigiosa organizaci\u00f3n m\u00e9dica que ofrece informaci\u00f3n de salud y recursos para pacientes.",
+            "keywords": [
+                "salud",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 102,
+            "title": "Zenni Optical",
+            "url": "https:\/\/www.zennioptical.com",
+            "description": "Tienda en l\u00ednea de lentes y marcos para anteojos.",
+            "keywords": [
+                "optica",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 351,
+            "title": "Goodreads",
+            "url": "https:\/\/www.goodreads.com",
+            "description": "Red social para amantes de los libros, con rese\u00f1as y recomendaciones.",
+            "keywords": [
+                "libros",
+                "rese\u00f1as",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 350,
+            "title": "Curiosity Stream",
+            "url": "https:\/\/www.curiositystream.com",
+            "description": "Servicio de streaming con documentales y series educativas.",
+            "keywords": [
+                "documentales",
+                "streaming",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 2,
+            "title": "YouTube",
+            "url": "https:\/\/www.youtube.com",
+            "description": "Plataforma de videos en l\u00ednea donde los usuarios pueden ver, compartir y cargar contenido visual variado.",
+            "keywords": [
+                "videos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 247,
+            "title": "Santander M\u00e9xico",
+            "url": "https:\/\/www.santander.com.mx",
+            "description": "Banco global con presencia en M\u00e9xico, ofrece productos financieros como cuentas, cr\u00e9ditos, inversiones y seguros.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "cr\u00e9ditos",
+                "inversiones",
+                "seguros",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 18,
+            "title": "Zoom",
+            "url": "https:\/\/www.zoom.us",
+            "description": "Herramienta de videoconferencias ampliamente usada para reuniones virtuales y seminarios en l\u00ednea.",
+            "keywords": [
+                "videoconferencia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 288,
+            "title": "Andaz Mayakoba",
+            "url": "https:\/\/www.hyatt.com\/andaz\/mayakoba",
+            "description": "Resort eco-chic en Riviera Maya integrado con la naturaleza y cultura local.",
+            "keywords": [
+                "hoteles",
+                "ecologico",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 299,
+            "title": "Spot2.mx",
+            "url": "https:\/\/www.spot2.mx",
+            "description": "Plataforma moderna para encontrar departamentos en renta en zonas premium.",
+            "keywords": [
+                "alquiler",
+                "departamentos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 201,
+            "title": "Epic Games Store",
+            "url": "https:\/\/www.epicgames.com\/store",
+            "description": "Tienda digital de videojuegos con exclusivos y juegos gratuitos semanales.",
+            "keywords": [
+                "juegos",
+                "tienda",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 141,
+            "title": "Las Alcobas",
+            "url": "https:\/\/www.lasalcobasmexico.com",
+            "description": "Hotel boutique de lujo en Polanco con servicio personalizado y restaurante gourmet.",
+            "keywords": [
+                "hoteles",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 245,
+            "title": "BBVA M\u00e9xico",
+            "url": "https:\/\/www.bbva.mx",
+            "description": "Banco l\u00edder en M\u00e9xico, ofrece servicios financieros como cuentas, tarjetas, pr\u00e9stamos y seguros para individuos y empresas.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "cuentas",
+                "tarjetas",
+                "pr\u00e9stamos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 51,
+            "title": "WebMD",
+            "url": "https:\/\/www.webmd.com",
+            "description": "Sitio de informaci\u00f3n m\u00e9dica y de salud con recursos educativos para pacientes.",
+            "keywords": [
+                "salud",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 245,
+            "title": "Adobe Stock",
+            "url": "https:\/\/stock.adobe.com",
+            "description": "Servicio de contenido creativo integrado con productos Adobe.",
+            "keywords": [
+                "imagenes",
+                "recursos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 298,
+            "title": "Metros C\u00fabicos",
+            "url": "https:\/\/www.metroscubicos.com",
+            "description": "Portal especializado en bienes ra\u00edces con opciones de renta en todo M\u00e9xico.",
+            "keywords": [
+                "alquiler",
+                "inmobiliaria",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 75,
+            "title": "Rakuten",
+            "url": "https:\/\/www.rakuten.com",
+            "description": "Centro de informaci\u00f3n sobre salud y bienestar con recomendaciones m\u00e9dicas.",
+            "keywords": [
+                "compras",
+                "Mx"
+            ],
+            "likes": 1,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [
+                    "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMzAuMC4wLjAtMTM2Nng3NjgtZXMtNDE5"
+                ],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 12,
+            "title": "Yahoo!",
+            "url": "https:\/\/www.yahoo.com",
+            "description": "Portal web con servicios de b\u00fasqueda, noticias, correo y contenido de inter\u00e9s general.",
+            "keywords": [
+                "portal",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 215,
+            "title": "ModDB",
+            "url": "https:\/\/www.moddb.com",
+            "description": "Base de datos de modificaciones y contenido personalizado para juegos.",
+            "keywords": [
+                "juegos",
+                "mods",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 276,
+            "title": "Four Seasons M\u00e9xico",
+            "url": "https:\/\/www.fourseasons.com\/mexico",
+            "description": "Hotel de lujo ubicado en Ciudad de M\u00e9xico, ofrece habitaciones elegantes, spa, restaurantes gourmet y servicios premium.",
+            "keywords": [
+                "hoteles",
+                "lujo",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 264,
+            "title": "Banco Compartamos",
+            "url": "https:\/\/www.compartamos.com.mx",
+            "description": "Banco enfocado en microfinanzas, proporcionando cr\u00e9ditos accesibles, servicios de ahorro y soluciones financieras para emprendedores y peque\u00f1as empresas en M\u00e9xico.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "microfinanzas",
+                "cr\u00e9ditos",
+                "emprendedores",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 134,
+            "title": "Refacciones La Mixteca",
+            "url": "https:\/\/www.refaccionesmixteca.mx",
+            "description": "Servicio de refacciones en la regi\u00f3n Mixteca de Oaxaca.",
+            "keywords": [
+                "refacciones",
+                "Mx"
+            ],
+            "likes": 1,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [
+                    "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMzAuMC4wLjAtMTM2Nng3NjgtZXMtNDE5"
+                ],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 69,
+            "title": "Nextdoor",
+            "url": "https:\/\/www.nextdoor.com",
+            "description": "Plataforma de informaci\u00f3n de negocios para encontrar y conectar contactos profesionales.",
+            "keywords": [
+                "comunidad",
+                "Mx"
+            ],
+            "likes": 1,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [
+                    "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMzAuMC4wLjAtMTM2Nng3NjgtZXMtNDE5"
+                ],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 294,
+            "title": "Dada Room",
+            "url": "https:\/\/www.dadaroom.com",
+            "description": "Plataforma especializada en renta de habitaciones y departamentos compartidos.",
+            "keywords": [
+                "alquiler",
+                "compartido",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 4,
+            "title": "Amazon",
+            "url": "https:\/\/www.amazon.com",
+            "description": "La tienda en l\u00ednea m\u00e1s grande con una variedad de productos, servicios y entregas r\u00e1pidas.",
+            "keywords": [
+                "compras",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 112,
+            "title": "Mercado Libre M\u00e9xico",
+            "url": "https:\/\/www.mercadolibre.com.mx",
+            "description": "Plataforma mexicana de comercio electr\u00f3nico l\u00edder en el pa\u00eds.",
+            "keywords": [
+                "ecommerce",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 239,
+            "title": "Dribbble",
+            "url": "https:\/\/dribbble.com",
+            "description": "Comunidad de dise\u00f1adores para compartir y descubrir trabajo creativo.",
+            "keywords": [
+                "dise\u00f1o",
+                "comunidad",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 316,
+            "title": "GitHub Jobs",
+            "url": "https:\/\/jobs.github.com",
+            "description": "Portal de empleos para desarrolladores y profesionales de tecnolog\u00eda.",
+            "keywords": [
+                "empleo",
+                "desarrolladores",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 228,
+            "title": "Sketchfab",
+            "url": "https:\/\/sketchfab.com",
+            "description": "Plataforma para publicar, compartir y descubrir modelos 3D en l\u00ednea.",
+            "keywords": [
+                "arte",
+                "3d",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 151,
+            "title": "Centro Hist\u00f3rico CDMX",
+            "url": "https:\/\/www.centrohistorico.cdmx.gob.mx",
+            "description": "Portal del Centro Hist\u00f3rico de la Ciudad de M\u00e9xico, Patrimonio Mundial | CDMX, MX.",
+            "keywords": [
+                "turismo",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 207,
+            "title": "Humble Bundle",
+            "url": "https:\/\/www.humblebundle.com",
+            "description": "Plataforma que ofrece paquetes de juegos y software a precios flexibles para caridad.",
+            "keywords": [
+                "juegos",
+                "caridad",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 54,
+            "title": "The Verge",
+            "url": "https:\/\/www.theverge.com",
+            "description": "Medio digital especializado en tecnolog\u00eda, ciencia y cultura digital.",
+            "keywords": [
+                "tecnologia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 24,
+            "title": "Adobe",
+            "url": "https:\/\/www.adobe.com",
+            "description": "Proveedor de software creativo para dise\u00f1o gr\u00e1fico, edici\u00f3n de video y fotograf\u00eda.",
+            "keywords": [
+                "dise\u00f1o",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 336,
+            "title": "NASA",
+            "url": "https:\/\/www.nasa.gov",
+            "description": "Agencia espacial de Estados Unidos con informaci\u00f3n sobre misiones y descubrimientos.",
+            "keywords": [
+                "espacio",
+                "ciencia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 128,
+            "title": "AutoPartes Oaxaca",
+            "url": "https:\/\/www.autopartesoaxaca.mx",
+            "description": "Venta de refacciones originales y alternativas para todas las marcas en Oaxaca.",
+            "keywords": [
+                "refacciones",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 103,
+            "title": "Zinus",
+            "url": "https:\/\/www.zinus.com",
+            "description": "Tienda en l\u00ednea de colchones, camas y muebles para el hogar.",
+            "keywords": [
+                "muebles",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 14,
+            "title": "Microsoft",
+            "url": "https:\/\/www.microsoft.com",
+            "description": "Empresa tecnol\u00f3gica l\u00edder en software, sistemas operativos y soluciones de productividad globales.",
+            "keywords": [
+                "tecnologia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 292,
+            "title": "Vivanuncios",
+            "url": "https:\/\/www.vivanuncios.com.mx",
+            "description": "Plataforma de clasificados inmobiliarios con amplia oferta de departamentos y casas en renta.",
+            "keywords": [
+                "alquiler",
+                "departamentos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 203,
+            "title": "itch.io",
+            "url": "https:\/\/itch.io",
+            "description": "Plataforma para desarrolladores independientes donde publicar y vender sus juegos.",
+            "keywords": [
+                "juegos",
+                "indie",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 196,
+            "title": "Unity",
+            "url": "https:\/\/unity.com",
+            "description": "Plataforma l\u00edder de desarrollo de videojuegos y experiencias interactivas en tiempo real.",
+            "keywords": [
+                "desarrollo",
+                "juegos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 321,
+            "title": "Upwork",
+            "url": "https:\/\/www.upwork.com",
+            "description": "Plataforma de freelancers para proyectos en diversas \u00e1reas.",
+            "keywords": [
+                "empleo",
+                "freelance",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 156,
+            "title": "CFE",
+            "url": "https:\/\/www.cfe.mx",
+            "description": "Comisi\u00f3n Federal de Electricidad, empresa estatal que suministra energ\u00eda el\u00e9ctrica en M\u00e9xico.",
+            "keywords": [
+                "energia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 326,
+            "title": "TechCareers",
+            "url": "https:\/\/www.techcareers.com",
+            "description": "Portal de empleos especializado en tecnolog\u00eda y programaci\u00f3n.",
+            "keywords": [
+                "empleo",
+                "tecnologia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 241,
+            "title": "Pixabay",
+            "url": "https:\/\/pixabay.com",
+            "description": "Banco de im\u00e1genes y videos gratuitos libres de derechos.",
+            "keywords": [
+                "imagenes",
+                "recursos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 98,
+            "title": "Zappos",
+            "url": "https:\/\/www.zappos.com",
+            "description": "Tienda en l\u00ednea de zapatos, ropa y accesorios de moda.",
+            "keywords": [
+                "calzado",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 129,
+            "title": "Refaccionaria Japonesa Oaxaca",
+            "url": "https:\/\/www.japonesaoaxaca.com.mx",
+            "description": "Especialistas en refacciones para veh\u00edculos asi\u00e1ticos en Oaxaca capital.",
+            "keywords": [
+                "refacciones",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 31,
+            "title": "Medium",
+            "url": "https:\/\/www.medium.com",
+            "description": "Plataforma de publicaci\u00f3n y blogs donde escritores comparten art\u00edculos y conocimientos.",
+            "keywords": [
+                "blogs",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 55,
+            "title": "edX",
+            "url": "https:\/\/www.edx.org",
+            "description": "Plataforma de educaci\u00f3n en l\u00ednea que ofrece cursos de universidades prestigiosas.",
+            "keywords": [
+                "educacion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 226,
+            "title": "Artstation",
+            "url": "https:\/\/www.artstation.com",
+            "description": "Plataforma para artistas digitales donde mostrar y descubrir arte profesional.",
+            "keywords": [
+                "arte",
+                "dise\u00f1o",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 182,
+            "title": "Gobierno de Durango",
+            "url": "https:\/\/www.durango.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Durango.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 242,
+            "title": "Unsplash",
+            "url": "https:\/\/unsplash.com",
+            "description": "Colecci\u00f3n de fotograf\u00edas de alta calidad de uso libre.",
+            "keywords": [
+                "imagenes",
+                "fotos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 107,
+            "title": "Elektra",
+            "url": "https:\/\/www.elektra.com.mx",
+            "description": "Cadena comercial mexicana especializada en electrodom\u00e9sticos y servicios financieros.",
+            "keywords": [
+                "electronica",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 162,
+            "title": "CONACYT",
+            "url": "https:\/\/www.conacyt.gob.mx",
+            "description": "Consejo Nacional de Ciencia y Tecnolog\u00eda, promueve la investigaci\u00f3n cient\u00edfica en M\u00e9xico.",
+            "keywords": [
+                "ciencia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 297,
+            "title": "Lamudi",
+            "url": "https:\/\/www.lamudi.com.mx",
+            "description": "Marketplace inmobiliario con opciones de renta desde econ\u00f3micas hasta premium.",
+            "keywords": [
+                "alquiler",
+                "propiedades",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 173,
+            "title": "Gobierno de Oaxaca",
+            "url": "https:\/\/www.oaxaca.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Oaxaca.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 200,
+            "title": "Steam",
+            "url": "https:\/\/store.steampowered.com",
+            "description": "Principal plataforma de distribuci\u00f3n digital de videojuegos para PC.",
+            "keywords": [
+                "juegos",
+                "tienda",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 197,
+            "title": "Unreal Engine",
+            "url": "https:\/\/www.unrealengine.com",
+            "description": "Motor de juegos profesional con herramientas completas para desarrollo de videojuegos y contenido 3D.",
+            "keywords": [
+                "desarrollo",
+                "juegos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 48,
+            "title": "Slack",
+            "url": "https:\/\/www.slack.com",
+            "description": "Plataforma de comercio electr\u00f3nico para crear y gestionar tiendas en l\u00ednea con facilidad.",
+            "keywords": [
+                "comunicacion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 155,
+            "title": "Metro CDMX",
+            "url": "https:\/\/www.metro.cdmx.gob.mx",
+            "description": "Sistema de Transporte Colectivo Metro de la Ciudad de M\u00e9xico | CDMX, MX.",
+            "keywords": [
+                "transporte",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 194,
+            "title": "Pluto TV",
+            "url": "https:\/\/www.pluto.tv",
+            "description": "Servicio de streaming gratuito con una variedad de canales y contenido bajo demanda.",
+            "keywords": [
+                "streaming",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 160,
+            "title": "IMSS",
+            "url": "https:\/\/www.imss.gob.mx",
+            "description": "Instituto Mexicano del Seguro Social, proporciona servicios de salud y seguridad social.",
+            "keywords": [
+                "salud",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 237,
+            "title": "Sketch",
+            "url": "https:\/\/www.sketch.com",
+            "description": "Software de dise\u00f1o vectorial para interfaces y experiencias digitales.",
+            "keywords": [
+                "dise\u00f1o",
+                "ux",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 263,
+            "title": "Banco Ve por M\u00e1s",
+            "url": "https:\/\/www.bancovepormas.com.mx",
+            "description": "Banco que ofrece una variedad de productos financieros como cuentas de ahorro, pr\u00e9stamos personales, tarjetas de cr\u00e9dito y servicios de inversi\u00f3n, orientados a mejorar las finanzas de sus clientes.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "ahorro",
+                "pr\u00e9stamos",
+                "tarjetas",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 64,
+            "title": "Weebly",
+            "url": "https:\/\/www.weebly.com",
+            "description": "Plataforma para crear sitios web y tiendas en l\u00ednea sin conocimientos t\u00e9cnicos.",
+            "keywords": [
+                "web",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 72,
+            "title": "Udemy",
+            "url": "https:\/\/www.udemy.com",
+            "description": "Plataforma educativa sobre finanzas e inversi\u00f3n con art\u00edculos y recursos.",
+            "keywords": [
+                "cursos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 93,
+            "title": "Zendesk",
+            "url": "https:\/\/www.zendesk.com",
+            "description": "Plataforma de atenci\u00f3n al cliente y soporte t\u00e9cnico.",
+            "keywords": [
+                "soporte",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 138,
+            "title": "Grupo Posadas",
+            "url": "https:\/\/www.posadas.com",
+            "description": "Operadora mexicana de hoteles con marcas como Live Aqua, Fiesta Americana y One.",
+            "keywords": [
+                "hoteles",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 91,
+            "title": "Zomato",
+            "url": "https:\/\/www.zomato.com",
+            "description": "Plataforma de informaci\u00f3n sobre restaurantes y comida.",
+            "keywords": [
+                "restaurantes",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 146,
+            "title": "Turibus CDMX",
+            "url": "https:\/\/www.turibus.com.mx",
+            "description": "Servicio de autobuses tur\u00edsticos que recorren los principales puntos de la Ciudad de M\u00e9xico | CDMX, MX.",
+            "keywords": [
+                "turismo",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 332,
+            "title": "National Geographic",
+            "url": "https:\/\/www.nationalgeographic.com",
+            "description": "Revista y sitio web con contenido sobre ciencia, exploraci\u00f3n y aventura.",
+            "keywords": [
+                "ciencia",
+                "exploracion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 281,
+            "title": "Hard Rock Hotel Vallarta",
+            "url": "https:\/\/www.hardrockhotels.com\/vallarta",
+            "description": "Resort todo incluido en Puerto Vallarta con tem\u00e1tica musical, entretenimiento y amenidades de lujo.",
+            "keywords": [
+                "hoteles",
+                "entretenimiento",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 53,
+            "title": "TechCrunch",
+            "url": "https:\/\/techcrunch.com",
+            "description": "Portal de noticias sobre tecnolog\u00eda, startups e innovaci\u00f3n.",
+            "keywords": [
+                "tecnologia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 135,
+            "title": "AutoElectrico Del Sur",
+            "url": "https:\/\/www.autoelectricosur.mx",
+            "description": "Especialistas en sistemas el\u00e9ctricos automotrices y refacciones relacionadas.",
+            "keywords": [
+                "electrico",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 21,
+            "title": "VK",
+            "url": "https:\/\/www.vk.com",
+            "description": "Red social popular en Rusia, permite compartir mensajes, fotos y videos entre amigos.",
+            "keywords": [
+                "social",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 193,
+            "title": "Gobierno de San Luis Potos\u00ed",
+            "url": "https:\/\/www.slp.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de San Luis Potos\u00ed.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 84,
+            "title": "Hotstar",
+            "url": "https:\/\/www.hotstar.com",
+            "description": "Servicio de transmisi\u00f3n de m\u00fasica y podcasts en l\u00ednea.",
+            "keywords": [
+                "streaming",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 309,
+            "title": "SimplyHired",
+            "url": "https:\/\/www.simplyhired.com",
+            "description": "Plataforma de b\u00fasqueda de empleo con filtros avanzados.",
+            "keywords": [
+                "empleo",
+                "busqueda",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 42,
+            "title": "Airbnb",
+            "url": "https:\/\/www.airbnb.com",
+            "description": "Foro de preguntas y respuestas sobre programaci\u00f3n, muy \u00fatil para desarrolladores.",
+            "keywords": [
+                "alojamiento",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 36,
+            "title": "Hulu",
+            "url": "https:\/\/www.hulu.com",
+            "description": "Servicio de streaming que ofrece series de TV, pel\u00edculas y contenido original.",
+            "keywords": [
+                "streaming",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 114,
+            "title": "Bimbo",
+            "url": "https:\/\/www.grupobimbo.com",
+            "description": "Empresa mexicana l\u00edder mundial en la industria de la panificaci\u00f3n.",
+            "keywords": [
+                "alimentos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 279,
+            "title": "St. Regis Punta Mita",
+            "url": "https:\/\/www.marriott.com\/st-regis\/puntamita",
+            "description": "Resort exclusivo en Riviera Nayarit con villas de lujo, campo de golf y spa de clase mundial.",
+            "keywords": [
+                "hoteles",
+                "resort",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 105,
+            "title": "Zumiez",
+            "url": "https:\/\/www.zumiez.com",
+            "description": "Tienda en l\u00ednea de ropa, calzado y accesorios para deportes extremos.",
+            "keywords": [
+                "deportes",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 184,
+            "title": "Gobierno de Campeche",
+            "url": "https:\/\/www.campeche.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Campeche.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 26,
+            "title": "BBC",
+            "url": "https:\/\/www.bbc.com",
+            "description": "Red de noticias global que ofrece contenido multimedia de actualidad.",
+            "keywords": [
+                "noticias",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 46,
+            "title": "Booking.com",
+            "url": "https:\/\/www.booking.com",
+            "description": "Canal de noticias mundial, conocido por su cobertura de eventos en vivo y an\u00e1lisis.",
+            "keywords": [
+                "viajes",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 40,
+            "title": "Etsy",
+            "url": "https:\/\/www.etsy.com",
+            "description": "Plataforma de transmisi\u00f3n en vivo, muy popular para videojuegos y contenido en directo.",
+            "keywords": [
+                "artesanias",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 34,
+            "title": "PayPal",
+            "url": "https:\/\/www.paypal.com",
+            "description": "Sistema de pagos en l\u00ednea que permite transferencias de dinero y pagos electr\u00f3nicos seguros.",
+            "keywords": [
+                "pagos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 240,
+            "title": "Framer",
+            "url": "https:\/\/www.framer.com",
+            "description": "Herramienta para dise\u00f1o interactivo y creaci\u00f3n de prototipos.",
+            "keywords": [
+                "dise\u00f1o",
+                "prototipos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 293,
+            "title": "Homie",
+            "url": "https:\/\/www.homie.mx",
+            "description": "Plataforma digital que simplifica el proceso de renta de propiedades sin aval.",
+            "keywords": [
+                "alquiler",
+                "propiedades",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 315,
+            "title": "Stack Overflow Jobs",
+            "url": "https:\/\/stackoverflow.com\/jobs",
+            "description": "Secci\u00f3n de empleos de Stack Overflow para desarrolladores.",
+            "keywords": [
+                "empleo",
+                "programacion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 147,
+            "title": "Metrob\u00fas CDMX",
+            "url": "https:\/\/www.metrobus.cdmx.gob.mx",
+            "description": "Sistema de transporte p\u00fablico BRT de la Ciudad de M\u00e9xico | CDMX, MX.",
+            "keywords": [
+                "transporte",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 164,
+            "title": "SCT",
+            "url": "https:\/\/www.gob.mx\/sct",
+            "description": "Secretar\u00eda de Comunicaciones y Transportes, regula las comunicaciones y transportes en M\u00e9xico.",
+            "keywords": [
+                "transporte",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 227,
+            "title": "DeviantArt",
+            "url": "https:\/\/www.deviantart.com",
+            "description": "Comunidad art\u00edstica en l\u00ednea para compartir y comercializar arte digital.",
+            "keywords": [
+                "arte",
+                "comunidad",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 328,
+            "title": "Angel.co",
+            "url": "https:\/\/angel.co",
+            "description": "Plataforma de empleos en startups y empresas tecnol\u00f3gicas.",
+            "keywords": [
+                "empleo",
+                "startups",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 37,
+            "title": "IMDb",
+            "url": "https:\/\/www.imdb.com",
+            "description": "Base de datos en l\u00ednea de informaci\u00f3n relacionada con pel\u00edculas, programas de TV y celebridades.",
+            "keywords": [
+                "peliculas",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 223,
+            "title": "Rosetta Stone",
+            "url": "https:\/\/www.rosettastone.com",
+            "description": "Software de aprendizaje de idiomas con m\u00e9todo de inmersi\u00f3n.",
+            "keywords": [
+                "educacion",
+                "idiomas",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 83,
+            "title": "Glassdoor",
+            "url": "https:\/\/www.glassdoor.com",
+            "description": "Base de datos de pel\u00edculas, series y rese\u00f1as de cine.",
+            "keywords": [
+                "empleos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 352,
+            "title": "Project Gutenberg",
+            "url": "https:\/\/www.gutenberg.org",
+            "description": "Biblioteca digital con miles de libros gratuitos en dominio p\u00fablico.",
+            "keywords": [
+                "libros",
+                "gratis",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 313,
+            "title": "AngelList",
+            "url": "https:\/\/angel.co\/jobs",
+            "description": "Plataforma de empleos en startups y empresas tecnol\u00f3gicas.",
+            "keywords": [
+                "empleo",
+                "startups",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 220,
+            "title": "Brilliant",
+            "url": "https:\/\/brilliant.org",
+            "description": "Plataforma educativa para aprender matem\u00e1ticas y ciencias de forma interactiva.",
+            "keywords": [
+                "educacion",
+                "ciencia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 320,
+            "title": "Toptal",
+            "url": "https:\/\/www.toptal.com",
+            "description": "Red de freelancers de \u00e9lite en tecnolog\u00eda y dise\u00f1o.",
+            "keywords": [
+                "empleo",
+                "freelance",
+                "Mx"
+            ],
+            "likes": 1,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [
+                    "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMzAuMC4wLjAtMTM2Nng3NjgtZXMtNDE5"
+                ],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 45,
+            "title": "ZoomInfo",
+            "url": "https:\/\/www.zoominfo.com",
+            "description": "Red de noticias global que ofrece contenido multimedia de actualidad.",
+            "keywords": [
+                "negocios",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 265,
+            "title": "Banco Actinver",
+            "url": "https:\/\/www.actinver.com",
+            "description": "Banco mexicano especializado en servicios de inversi\u00f3n, asesor\u00eda financiera y gesti\u00f3n de activos para individuos y empresas.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "inversiones",
+                "asesor\u00eda",
+                "activos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 327,
+            "title": "Authentic Jobs",
+            "url": "https:\/\/authenticjobs.com",
+            "description": "Plataforma de empleos en dise\u00f1o, desarrollo y tecnolog\u00eda.",
+            "keywords": [
+                "empleo",
+                "tecnologia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 300,
+            "title": "Roomgo",
+            "url": "https:\/\/www.roomgo.com.mx",
+            "description": "Red global de alquiler de habitaciones y departamentos compartidos.",
+            "keywords": [
+                "alquiler",
+                "compartido",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 183,
+            "title": "Gobierno de Colima",
+            "url": "https:\/\/www.colima.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Colima.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 305,
+            "title": "Flat.mx",
+            "url": "https:\/\/www.flat.mx",
+            "description": "Plataforma tecnol\u00f3gica para rentar departamentos con procesos digitalizados.",
+            "keywords": [
+                "alquiler",
+                "departamentos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 249,
+            "title": "HSBC M\u00e9xico",
+            "url": "https:\/\/www.hsbc.com.mx",
+            "description": "Banco internacional con servicios financieros en M\u00e9xico, ofrece cuentas, tarjetas, pr\u00e9stamos, inversiones y seguros.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "cuentas",
+                "tarjetas",
+                "pr\u00e9stamos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 163,
+            "title": "PROFECO",
+            "url": "https:\/\/www.profeco.gob.mx",
+            "description": "Procuradur\u00eda Federal del Consumidor, protege los derechos de los consumidores en M\u00e9xico.",
+            "keywords": [
+                "consumidor",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 81,
+            "title": "Patreon",
+            "url": "https:\/\/www.patreon.com",
+            "description": "Opiniones y rese\u00f1as de viajes, hoteles y actividades.",
+            "keywords": [
+                "creadores",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 260,
+            "title": "Banco Monex",
+            "url": "https:\/\/www.monex.com.mx",
+            "description": "Banco especializado en servicios de banca empresarial y personal, ofreciendo soluciones financieras, cambio de divisas, transferencias internacionales y asesor\u00eda en inversiones.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "empresarial",
+                "divisas",
+                "transferencias",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 96,
+            "title": "Zynga",
+            "url": "https:\/\/www.zynga.com",
+            "description": "Desarrollador de juegos en l\u00ednea y aplicaciones m\u00f3viles.",
+            "keywords": [
+                "juegos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 7,
+            "title": "Instagram",
+            "url": "https:\/\/www.instagram.com",
+            "description": "Aplicaci\u00f3n de fotos y videos, ideal para compartir momentos y conectarse con una audiencia global.",
+            "keywords": [
+                "fotos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 9,
+            "title": "Reddit",
+            "url": "https:\/\/www.reddit.com",
+            "description": "Comunidad en l\u00ednea donde los usuarios discuten temas variados en foros, compartiendo opiniones y contenido interesante.",
+            "keywords": [
+                "foros",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 296,
+            "title": "Propiedades.com",
+            "url": "https:\/\/www.propiedades.com",
+            "description": "Portal inmobiliario con amplio cat\u00e1logo de propiedades en renta y venta en M\u00e9xico.",
+            "keywords": [
+                "alquiler",
+                "inmobiliaria",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 80,
+            "title": "Getty Images",
+            "url": "https:\/\/www.gettyimages.com",
+            "description": "Noticias y an\u00e1lisis de deportes con cobertura en tiempo real.",
+            "keywords": [
+                "imagenes",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 341,
+            "title": "Mental Floss",
+            "url": "https:\/\/www.mentalfloss.com",
+            "description": "Sitio web con art\u00edculos y videos sobre datos curiosos y hechos interesantes.",
+            "keywords": [
+                "curiosidades",
+                "educacion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 116,
+            "title": "Kavak",
+            "url": "https:\/\/www.kavak.com\/mx",
+            "description": "Principal plataforma de compra-venta de autos seminuevos certificados en M\u00e9xico.",
+            "keywords": [
+                "autos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 277,
+            "title": "The Ritz-Carlton Canc\u00fan",
+            "url": "https:\/\/www.ritzcarlton.com\/cancun",
+            "description": "Resort de lujo frente al mar en Canc\u00fan con spa, restaurantes de alta cocina y servicio personalizado.",
+            "keywords": [
+                "hoteles",
+                "resort",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 106,
+            "title": "Liverpool",
+            "url": "https:\/\/www.liverpool.com.mx",
+            "description": "Tienda departamental mexicana con amplia variedad de productos y marcas exclusivas.",
+            "keywords": [
+                "tienda",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 120,
+            "title": "Car Fast",
+            "url": "https:\/\/www.carfast.mx",
+            "description": "Servicio de mantenimiento automotriz a domicilio en M\u00e9xico.",
+            "keywords": [
+                "servicio",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 254,
+            "title": "Banco del Baj\u00edo",
+            "url": "https:\/\/www.bb.com.mx",
+            "description": "Banco mexicano que proporciona servicios financieros a individuos y empresas, incluyendo cuentas, cr\u00e9ditos, inversiones y seguros.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "cuentas",
+                "cr\u00e9ditos",
+                "inversiones",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 335,
+            "title": "Coursera",
+            "url": "https:\/\/www.coursera.org",
+            "description": "Plataforma de educaci\u00f3n en l\u00ednea que ofrece cursos, certificaciones y t\u00edtulos universitarios.",
+            "keywords": [
+                "educacion",
+                "cursos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 76,
+            "title": "Wix",
+            "url": "https:\/\/www.wix.com",
+            "description": "Noticias sobre tecnolog\u00eda, startups y la industria digital.",
+            "keywords": [
+                "web",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 311,
+            "title": "CareerBuilder",
+            "url": "https:\/\/www.careerbuilder.com",
+            "description": "Plataforma de b\u00fasqueda de empleo y desarrollo profesional.",
+            "keywords": [
+                "empleo",
+                "desarrollo",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 10,
+            "title": "Netflix",
+            "url": "https:\/\/www.netflix.com",
+            "description": "Servicio de streaming con una amplia colecci\u00f3n de pel\u00edculas, series y documentales para ver en l\u00ednea.",
+            "keywords": [
+                "streaming",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 250,
+            "title": "Scotiabank M\u00e9xico",
+            "url": "https:\/\/www.scotiabank.com.mx",
+            "description": "Banco canadiense con operaciones en M\u00e9xico, proporciona servicios financieros como cuentas, cr\u00e9ditos, inversiones y seguros.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "cr\u00e9ditos",
+                "inversiones",
+                "seguros",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 217,
+            "title": "DataCamp",
+            "url": "https:\/\/www.datacamp.com",
+            "description": "Plataforma de aprendizaje interactivo para ciencia de datos y programaci\u00f3n.",
+            "keywords": [
+                "educacion",
+                "datos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 261,
+            "title": "Banco Famsa",
+            "url": "https:\/\/www.famsa.com\/banco",
+            "description": "Banco que ofrece productos financieros accesibles como pr\u00e9stamos personales, tarjetas de cr\u00e9dito y cuentas de ahorro, enfocados en facilitar el acceso al cr\u00e9dito para sus clientes.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "pr\u00e9stamos",
+                "tarjetas",
+                "ahorro",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 122,
+            "title": "CESVI M\u00e9xico",
+            "url": "https:\/\/www.cesvi.com.mx",
+            "description": "Centro de experimentaci\u00f3n y seguridad vial, certificaci\u00f3n de talleres.",
+            "keywords": [
+                "seguridad",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 233,
+            "title": "Domestika",
+            "url": "https:\/\/www.domestika.org",
+            "description": "Plataforma de cursos online para creativos y profesionales del dise\u00f1o.",
+            "keywords": [
+                "educacion",
+                "creatividad",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 139,
+            "title": "Pujol",
+            "url": "https:\/\/www.pujol.com.mx",
+            "description": "Restaurante de alta cocina mexicana en CDMX, reconocido internacionalmente.",
+            "keywords": [
+                "restaurantes",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 35,
+            "title": "WordPress",
+            "url": "https:\/\/www.wordpress.com",
+            "description": "Sistema de gesti\u00f3n de contenidos para crear y mantener blogs y sitios web.",
+            "keywords": [
+                "blogs",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 88,
+            "title": "JSTOR",
+            "url": "https:\/\/www.jstor.org",
+            "description": "Mercado en l\u00ednea para productos hechos a mano y art\u00edculos \u00fanicos.",
+            "keywords": [
+                "academia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 33,
+            "title": "Bing",
+            "url": "https:\/\/www.bing.com",
+            "description": "Motor de b\u00fasqueda de Microsoft que ofrece b\u00fasqueda web, im\u00e1genes, videos y mapas.",
+            "keywords": [
+                "busqueda",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 115,
+            "title": "Telcel",
+            "url": "https:\/\/www.telcel.com",
+            "description": "Principal proveedor de servicios de telefon\u00eda m\u00f3vil en M\u00e9xico.",
+            "keywords": [
+                "telecomunicaciones",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 268,
+            "title": "Banco Sabadell",
+            "url": "https:\/\/www.bancosabadell.com.mx",
+            "description": "Banco espa\u00f1ol con operaciones en M\u00e9xico, ofrece productos financieros como cuentas, cr\u00e9ditos, inversiones y seguros.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "cr\u00e9ditos",
+                "inversiones",
+                "seguros",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 68,
+            "title": "Target",
+            "url": "https:\/\/www.target.com",
+            "description": "Cadena minorista con amplia variedad de productos para el hogar y personales.",
+            "keywords": [
+                "tienda",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 214,
+            "title": "Newgrounds",
+            "url": "https:\/\/www.newgrounds.com",
+            "description": "Comunidad de entretenimiento y juegos flash hist\u00f3rica en internet.",
+            "keywords": [
+                "juegos",
+                "comunidad",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 142,
+            "title": "Rosewood Mayakoba",
+            "url": "https:\/\/www.rosewoodhotels.com\/mayakoba",
+            "description": "Resort de ultra lujo en la Riviera Maya con villa privadas y spa.",
+            "keywords": [
+                "resorts",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 212,
+            "title": "PlayFab",
+            "url": "https:\/\/playfab.com",
+            "description": "Plataforma de backend para juegos con servicios en la nube de Microsoft.",
+            "keywords": [
+                "desarrollo",
+                "cloud",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 270,
+            "title": "Banco Mifel",
+            "url": "https:\/\/www.mifel.com.mx",
+            "description": "Banco mexicano que brinda servicios financieros como cuentas de ahorro, cr\u00e9ditos, inversiones y seguros.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "ahorro",
+                "cr\u00e9ditos",
+                "inversiones",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 157,
+            "title": "Pemex",
+            "url": "https:\/\/www.pemex.com",
+            "description": "Petr\u00f3leos Mexicanos, empresa estatal de petr\u00f3leo y gas en M\u00e9xico.",
+            "keywords": [
+                "energia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 171,
+            "title": "Gobierno de Guanajuato",
+            "url": "https:\/\/www.guanajuato.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Guanajuato.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 140,
+            "title": "Quintonil",
+            "url": "https:\/\/www.quintonil.com",
+            "description": "Restaurante de cocina mexicana contempor\u00e1nea, ubicado en Polanco, CDMX.",
+            "keywords": [
+                "restaurantes",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 65,
+            "title": "BuzzFeed",
+            "url": "https:\/\/www.buzzfeed.com",
+            "description": "Red de preguntas y respuestas sobre una amplia variedad de temas.",
+            "keywords": [
+                "entretenimiento",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 159,
+            "title": "SAT",
+            "url": "https:\/\/www.sat.gob.mx",
+            "description": "Servicio de Administraci\u00f3n Tributaria, encargado de la recaudaci\u00f3n de impuestos en M\u00e9xico.",
+            "keywords": [
+                "impuestos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 58,
+            "title": "Bleacher Report",
+            "url": "https:\/\/bleacherreport.com",
+            "description": "Plataforma de microblogging para expresarse y compartir contenido multimedia variado.",
+            "keywords": [
+                "deportes",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 345,
+            "title": "Futurism",
+            "url": "https:\/\/www.futurism.com",
+            "description": "Sitio web con noticias y art\u00edculos sobre tecnolog\u00eda y el futuro.",
+            "keywords": [
+                "tecnologia",
+                "futuro",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 144,
+            "title": "Banyan Tree Mayakoba",
+            "url": "https:\/\/www.banyantree.com\/mexico\/mayakoba",
+            "description": "Resort de lujo que combina elegancia asi\u00e1tica con calidez mexicana.",
+            "keywords": [
+                "resorts",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 94,
+            "title": "Zulily",
+            "url": "https:\/\/www.zulily.com",
+            "description": "Tienda en l\u00ednea de ropa, accesorios y productos para el hogar.",
+            "keywords": [
+                "moda",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 22,
+            "title": "Twitch",
+            "url": "https:\/\/www.twitch.tv",
+            "description": "Plataforma de transmisi\u00f3n en vivo, muy popular para videojuegos y contenido en directo.",
+            "keywords": [
+                "streaming",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 344,
+            "title": "Wait But Why",
+            "url": "https:\/\/waitbutwhy.com",
+            "description": "Blog que explora temas complejos de manera accesible y entretenida.",
+            "keywords": [
+                "educacion",
+                "curiosidades",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 49,
+            "title": "Investopedia",
+            "url": "https:\/\/www.investopedia.com",
+            "description": "Portal educativo sobre finanzas, inversiones y mercados con recursos y definiciones detalladas.",
+            "keywords": [
+                "finanzas",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 121,
+            "title": "Mercado Libre Autos",
+            "url": "https:\/\/autos.mercadolibre.com.mx",
+            "description": "Secci\u00f3n especializada en venta de autos nuevos y usados en M\u00e9xico.",
+            "keywords": [
+                "autos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 166,
+            "title": "Gobierno de Jalisco",
+            "url": "https:\/\/www.jalisco.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Jalisco.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 16,
+            "title": "Pinterest",
+            "url": "https:\/\/www.pinterest.com",
+            "description": "Red social visual para descubrir y guardar ideas inspiradoras en im\u00e1genes y enlaces.",
+            "keywords": [
+                "imagenes",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 28,
+            "title": "Dropbox",
+            "url": "https:\/\/www.dropbox.com",
+            "description": "Servicio de almacenamiento en la nube que permite guardar y compartir archivos f\u00e1cilmente.",
+            "keywords": [
+                "almacenamiento",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 190,
+            "title": "Gobierno de Michoac\u00e1n",
+            "url": "https:\/\/www.michoacan.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Michoac\u00e1n.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 85,
+            "title": "Zillow",
+            "url": "https:\/\/www.zillow.com",
+            "description": "Herramienta para dise\u00f1o gr\u00e1fico con recursos gratuitos y premium.",
+            "keywords": [
+                "inmobiliaria",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 235,
+            "title": "Canva",
+            "url": "https:\/\/www.canva.com",
+            "description": "Herramienta de dise\u00f1o gr\u00e1fico online con plantillas y recursos.",
+            "keywords": [
+                "dise\u00f1o",
+                "herramientas",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 78,
+            "title": "ASOS",
+            "url": "https:\/\/www.asos.com",
+            "description": "Colecci\u00f3n de recetas y recursos de cocina para todos los gustos.",
+            "keywords": [
+                "moda",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 284,
+            "title": "Nizuc Resort & Spa",
+            "url": "https:\/\/www.nizuc.com",
+            "description": "Resort de lujo en Canc\u00fan con dise\u00f1o contempor\u00e1neo, spa de clase mundial y gastronom\u00eda excepcional.",
+            "keywords": [
+                "hoteles",
+                "spa",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 248,
+            "title": "Citibanamex",
+            "url": "https:\/\/www.banamex.com",
+            "description": "Banco con amplia trayectoria en M\u00e9xico, brinda servicios financieros integrales como cuentas, tarjetas, pr\u00e9stamos y seguros.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "cuentas",
+                "tarjetas",
+                "pr\u00e9stamos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 209,
+            "title": "Construct",
+            "url": "https:\/\/www.construct.net",
+            "description": "Plataforma de desarrollo de juegos sin necesidad de programaci\u00f3n.",
+            "keywords": [
+                "desarrollo",
+                "juegos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 230,
+            "title": "Renderosity",
+            "url": "https:\/\/www.renderosity.com",
+            "description": "Comunidad de artistas digitales especializada en arte 3D y recursos.",
+            "keywords": [
+                "arte",
+                "3d",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 211,
+            "title": "AWS GameLift",
+            "url": "https:\/\/aws.amazon.com\/gamelift",
+            "description": "Servicio de Amazon para hospedar servidores de juegos multijugador.",
+            "keywords": [
+                "desarrollo",
+                "cloud",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 124,
+            "title": "Bridgestone M\u00e9xico",
+            "url": "https:\/\/www.bridgestone.com.mx",
+            "description": "Fabricante y distribuidor de llantas con centros de servicio en M\u00e9xico.",
+            "keywords": [
+                "llantas",
+                "Mx"
+            ],
+            "likes": 1,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [
+                    "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMzAuMC4wLjAtMTM2Nng3NjgtZXMtNDE5"
+                ],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 304,
+            "title": "RE\/MAX M\u00e9xico",
+            "url": "https:\/\/www.remax.com.mx",
+            "description": "Red global de bienes ra\u00edces con opciones de renta en ubicaciones premium.",
+            "keywords": [
+                "alquiler",
+                "inmobiliaria",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 178,
+            "title": "Gobierno de Tabasco",
+            "url": "https:\/\/www.tabasco.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Tabasco.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 221,
+            "title": "Duolingo",
+            "url": "https:\/\/www.duolingo.com",
+            "description": "Plataforma gratuita para aprender idiomas de forma interactiva y gamificada.",
+            "keywords": [
+                "educacion",
+                "idiomas",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 216,
+            "title": "Udacity",
+            "url": "https:\/\/www.udacity.com",
+            "description": "Plataforma educativa enfocada en tecnolog\u00eda y desarrollo profesional.",
+            "keywords": [
+                "educacion",
+                "tecnologia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 110,
+            "title": "Soriana",
+            "url": "https:\/\/www.soriana.com",
+            "description": "Cadena mexicana de supermercados con presencia en todo el pa\u00eds.",
+            "keywords": [
+                "supermercado",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 266,
+            "title": "Banco Base",
+            "url": "https:\/\/www.bancobase.com",
+            "description": "Banco mexicano que ofrece servicios financieros integrales, incluyendo cambio de divisas, inversiones y banca empresarial.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "divisas",
+                "inversiones",
+                "empresarial",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 238,
+            "title": "InVision",
+            "url": "https:\/\/www.invisionapp.com",
+            "description": "Plataforma de dise\u00f1o digital para prototipado y colaboraci\u00f3n.",
+            "keywords": [
+                "dise\u00f1o",
+                "ux",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 79,
+            "title": "Behance",
+            "url": "https:\/\/www.behance.net",
+            "description": "Consejos, recetas y videos de cocina de expertos.",
+            "keywords": [
+                "dise\u00f1o",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 185,
+            "title": "Gobierno de Morelos",
+            "url": "https:\/\/www.morelos.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Morelos.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 71,
+            "title": "Indeed",
+            "url": "https:\/\/www.indeed.com",
+            "description": "Herramienta de comunicaci\u00f3n para equipos, enfocada en mensajes y colaboraci\u00f3n.",
+            "keywords": [
+                "empleo",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 244,
+            "title": "Shutterstock",
+            "url": "https:\/\/www.shutterstock.com",
+            "description": "Proveedor l\u00edder de im\u00e1genes, videos y m\u00fasica con licencia.",
+            "keywords": [
+                "imagenes",
+                "stock",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 187,
+            "title": "Gobierno de Baja California Sur",
+            "url": "https:\/\/www.bcs.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Baja California Sur.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 353,
+            "title": "The Art Story",
+            "url": "https:\/\/www.theartstory.org",
+            "description": "Sitio web con informaci\u00f3n sobre movimientos y artistas en la historia del arte.",
+            "keywords": [
+                "arte",
+                "historia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 224,
+            "title": "Codecademy",
+            "url": "https:\/\/www.codecademy.com",
+            "description": "Plataforma interactiva para aprender programaci\u00f3n y desarrollo web.",
+            "keywords": [
+                "educacion",
+                "programacion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 70,
+            "title": "AliExpress",
+            "url": "https:\/\/www.aliexpress.com",
+            "description": "Plataforma para reservar hoteles, vuelos y alquiler de autos en todo el mundo.",
+            "keywords": [
+                "compras",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 301,
+            "title": "Renta F\u00e1cil",
+            "url": "https:\/\/www.rentafacil.com.mx",
+            "description": "Servicio de renta de departamentos con procesos simplificados y sin aval.",
+            "keywords": [
+                "alquiler",
+                "departamentos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 271,
+            "title": "Banco Intercam",
+            "url": "https:\/\/www.intercam.com.mx",
+            "description": "Banco mexicano que ofrece servicios financieros integrales, incluyendo cambio de divisas, inversiones y banca empresarial.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "divisas",
+                "inversiones",
+                "empresarial",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 218,
+            "title": "Pluralsight",
+            "url": "https:\/\/www.pluralsight.com",
+            "description": "Plataforma de desarrollo de habilidades tecnol\u00f3gicas para profesionales.",
+            "keywords": [
+                "educacion",
+                "tecnologia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 192,
+            "title": "Gobierno de Quintana Roo",
+            "url": "https:\/\/www.qroo.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Quintana Roo.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 191,
+            "title": "Gobierno de Nayarit",
+            "url": "https:\/\/www.nayarit.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Nayarit.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 325,
+            "title": "Jobbatical",
+            "url": "https:\/\/jobbatical.com",
+            "description": "Plataforma de empleos internacionales y oportunidades de reubicaci\u00f3n.",
+            "keywords": [
+                "empleo",
+                "internacional",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 331,
+            "title": "TED",
+            "url": "https:\/\/www.ted.com",
+            "description": "Plataforma de conferencias inspiradoras y educativas sobre una amplia variedad de temas.",
+            "keywords": [
+                "conferencias",
+                "educacion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 280,
+            "title": "Habitas Tulum",
+            "url": "https:\/\/www.ourhabitas.com\/tulum",
+            "description": "Hotel boutique eco-friendly en Tulum que combina lujo sustentable con experiencias \u00fanicas.",
+            "keywords": [
+                "hoteles",
+                "ecologico",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 47,
+            "title": "Salesforce",
+            "url": "https:\/\/www.salesforce.com",
+            "description": "Servicio de almacenamiento en la nube que permite guardar y compartir archivos f\u00e1cilmente.",
+            "keywords": [
+                "crm",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 175,
+            "title": "Gobierno de Baja California",
+            "url": "https:\/\/www.bajacalifornia.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Baja California.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 127,
+            "title": "Refacciones El Istmo",
+            "url": "https:\/\/www.refaccioneselistmo.com.mx",
+            "description": "Distribuidor de refacciones automotrices en la regi\u00f3n del Istmo de Tehuantepec.",
+            "keywords": [
+                "autopartes",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 342,
+            "title": "Atlas Obscura",
+            "url": "https:\/\/www.atlasobscura.com",
+            "description": "Gu\u00eda de lugares y experiencias inusuales y sorprendentes alrededor del mundo.",
+            "keywords": [
+                "viajes",
+                "curiosidades",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 339,
+            "title": "History Channel",
+            "url": "https:\/\/www.history.com",
+            "description": "Canal de televisi\u00f3n y sitio web con contenido hist\u00f3rico y educativo.",
+            "keywords": [
+                "historia",
+                "documentales",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 41,
+            "title": "Stack Exchange",
+            "url": "https:\/\/stackexchange.com",
+            "description": "Suite de productividad para crear documentos, hojas de c\u00e1lculo y presentaciones.",
+            "keywords": [
+                "preguntas",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 243,
+            "title": "Pexels",
+            "url": "https:\/\/www.pexels.com",
+            "description": "Banco de fotos y videos gratuitos para uso comercial.",
+            "keywords": [
+                "imagenes",
+                "recursos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 181,
+            "title": "Gobierno de Zacatecas",
+            "url": "https:\/\/www.zacatecas.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Zacatecas.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 167,
+            "title": "Gobierno de Nuevo Le\u00f3n",
+            "url": "https:\/\/www.nl.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Nuevo Le\u00f3n.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 125,
+            "title": "Qu\u00e1litas",
+            "url": "https:\/\/www.qualitas.com.mx",
+            "description": "Compa\u00f1\u00eda especializada en seguros automotrices en M\u00e9xico.",
+            "keywords": [
+                "seguros",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 179,
+            "title": "Gobierno de Tamaulipas",
+            "url": "https:\/\/www.tamaulipas.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Tamaulipas.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 63,
+            "title": "Flipkart",
+            "url": "https:\/\/www.flipkart.com",
+            "description": "Principal plataforma de comercio electr\u00f3nico en India.",
+            "keywords": [
+                "compras",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 99,
+            "title": "Zazzle",
+            "url": "https:\/\/www.zazzle.com",
+            "description": "Mrcado en l\u00ednea de productos personalizados y regalos.",
+            "keywords": [
+                "personalizado",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 130,
+            "title": "Grupo Refaccionario del Sureste",
+            "url": "https:\/\/www.refaccionariagrs.mx",
+            "description": "Red de refaccionarias con presencia en todo el estado de Oaxaca.",
+            "keywords": [
+                "autopartes",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 334,
+            "title": "Khan Academy",
+            "url": "https:\/\/www.khanacademy.org",
+            "description": "Plataforma educativa gratuita con cursos y recursos en diversas materias.",
+            "keywords": [
+                "educacion",
+                "cursos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 19,
+            "title": "eBay",
+            "url": "https:\/\/www.ebay.com",
+            "description": "Plataforma de comercio electr\u00f3nico que permite la compra y venta de productos globalmente.",
+            "keywords": [
+                "subastas",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 66,
+            "title": "SoundCloud",
+            "url": "https:\/\/www.soundcloud.com",
+            "description": "Plataforma para alquiler de alojamientos y experiencias en todo el mundo.",
+            "keywords": [
+                "musica",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 333,
+            "title": "Smithsonian",
+            "url": "https:\/\/www.si.edu",
+            "description": "Instituci\u00f3n educativa y de investigaci\u00f3n con museos y contenido cultural.",
+            "keywords": [
+                "cultura",
+                "educacion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 205,
+            "title": "PlayStation Plus",
+            "url": "https:\/\/www.playstation.com\/plus",
+            "description": "Servicio de suscripci\u00f3n de PlayStation con juegos mensuales y beneficios exclusivos.",
+            "keywords": [
+                "juegos",
+                "streaming",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 278,
+            "title": "W Hotels M\u00e9xico",
+            "url": "https:\/\/www.marriott.com\/w-hotels\/mexico",
+            "description": "Cadena de hoteles modernos y cosmopolitas con ubicaciones en destinos premium de M\u00e9xico.",
+            "keywords": [
+                "hoteles",
+                "dise\u00f1o",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 137,
+            "title": "Presidente InterContinental",
+            "url": "https:\/\/www.presidenteicmexico.com",
+            "description": "Cadena hotelera de lujo con propiedades en las principales ciudades de M\u00e9xico.",
+            "keywords": [
+                "hoteles",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 282,
+            "title": "Secrets Maroma Beach",
+            "url": "https:\/\/www.secretsresorts.com\/maroma",
+            "description": "Resort solo adultos en Riviera Maya con playa privada, spa y experiencias gourmet.",
+            "keywords": [
+                "hoteles",
+                "adultos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 165,
+            "title": "SEP",
+            "url": "https:\/\/www.sep.gob.mx",
+            "description": "Secretar\u00eda de Educaci\u00f3n P\u00fablica, encargada de la educaci\u00f3n en M\u00e9xico.",
+            "keywords": [
+                "educacion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 126,
+            "title": "Refaccionaria El Carro",
+            "url": "https:\/\/www.refaccionariaelcarro.com.mx",
+            "description": "Refaccionaria local en Oaxaca con amplio inventario de autopartes nacionales e importadas.",
+            "keywords": [
+                "refacciones",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 180,
+            "title": "Gobierno de Tlaxcala",
+            "url": "https:\/\/www.tlaxcala.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Tlaxcala.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 5,
+            "title": "Wikipedia",
+            "url": "https:\/\/www.wikipedia.org",
+            "description": "Enciclopedia en l\u00ednea gratuita, colaborativa, con informaci\u00f3n detallada y diversa en m\u00faltiples idiomas.",
+            "keywords": [
+                "enciclopedia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 56,
+            "title": "AllRecipes",
+            "url": "https:\/\/www.allrecipes.com",
+            "description": "Comunidad de cocina con recetas, videos y consejos culinarios.",
+            "keywords": [
+                "recetas",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 285,
+            "title": "One&Only Palmilla",
+            "url": "https:\/\/www.oneandonlyresorts.com\/palmilla",
+            "description": "Resort de ultra lujo en Los Cabos con vistas al mar, golf y servicio personalizado.",
+            "keywords": [
+                "hoteles",
+                "lujo",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 283,
+            "title": "Hotel Xcaret M\u00e9xico",
+            "url": "https:\/\/www.hotelxcaret.com",
+            "description": "Resort todo incluido que combina lujo, cultura maya y acceso ilimitado a parques Xcaret.",
+            "keywords": [
+                "hoteles",
+                "familiar",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 73,
+            "title": "DocuSign",
+            "url": "https:\/\/www.docusign.com",
+            "description": "Sitio de noticias financieras con an\u00e1lisis y actualizaciones diarias.",
+            "keywords": [
+                "firmas",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 312,
+            "title": "Dice",
+            "url": "https:\/\/www.dice.com",
+            "description": "Portal de empleo especializado en tecnolog\u00eda y programaci\u00f3n.",
+            "keywords": [
+                "empleo",
+                "tecnologia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 13,
+            "title": "TikTok",
+            "url": "https:\/\/www.tiktok.com",
+            "description": "Plataforma de videos cortos donde usuarios crean y comparten contenido entretenido globalmente.",
+            "keywords": [
+                "videos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 23,
+            "title": "Stack Overflow",
+            "url": "https:\/\/stackoverflow.com",
+            "description": "Foro de preguntas y respuestas sobre programaci\u00f3n, muy \u00fatil para desarrolladores.",
+            "keywords": [
+                "programacion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 274,
+            "title": "Flaticon",
+            "url": "https:\/\/www.flaticon.es",
+            "description": "Plataforma que ofrece una amplia colecci\u00f3n de iconos gratuitos y premium, ideales para dise\u00f1adores y desarrolladores en diversos proyectos.",
+            "keywords": [
+                "iconos",
+                "dise\u00f1o",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 17,
+            "title": "WhatsApp",
+            "url": "https:\/\/www.whatsapp.com",
+            "description": "Aplicaci\u00f3n de mensajer\u00eda instant\u00e1nea popular para chat, multimedia y llamadas globales seguras.",
+            "keywords": [
+                "chat",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 272,
+            "title": "Banco Bx+",
+            "url": "https:\/\/www.bxmas.com.mx",
+            "description": "Banco mexicano que proporciona servicios financieros como cuentas de ahorro, cr\u00e9ditos, inversiones y seguros.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "ahorro",
+                "cr\u00e9ditos",
+                "inversiones",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 145,
+            "title": "Grupo Hunan",
+            "url": "https:\/\/www.grupohunan.com.mx",
+            "description": "Grupo restaurantero con diversos conceptos gastron\u00f3micos en M\u00e9xico.",
+            "keywords": [
+                "restaurantes",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 305,
+            "title": "Flat.mx",
+            "url": "https:\/\/www.flat.mx",
+            "description": "Plataforma tecnol\u00f3gica para rentar departamentos con procesos digitalizados.",
+            "keywords": [
+                "alquiler",
+                "departamentos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 109,
+            "title": "Sanborns",
+            "url": "https:\/\/www.sanborns.com.mx",
+            "description": "Cadena mexicana de tiendas departamentales con restaurante y farmacia.",
+            "keywords": [
+                "tienda",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 131,
+            "title": "Refacciones Gonz\u00e1lez",
+            "url": "https:\/\/www.refaccionesgonzalez.com.mx",
+            "description": "Distribuidor autorizado de m\u00faltiples marcas de autopartes en Oaxaca.",
+            "keywords": [
+                "refacciones",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 77,
+            "title": "CodePen",
+            "url": "https:\/\/www.codepen.io",
+            "description": "Portal de noticias sobre tecnolog\u00eda y cultura digital.",
+            "keywords": [
+                "codigo",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 43,
+            "title": "Discord",
+            "url": "https:\/\/www.discord.com",
+            "description": "Proveedor de software creativo para dise\u00f1o gr\u00e1fico, edici\u00f3n de video y fotograf\u00eda.",
+            "keywords": [
+                "chat",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 198,
+            "title": "Godot Engine",
+            "url": "https:\/\/godotengine.org",
+            "description": "Motor de juegos de c\u00f3digo abierto para desarrollar juegos 2D y 3D.",
+            "keywords": [
+                "desarrollo",
+                "juegos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 213,
+            "title": "Game Jolt",
+            "url": "https:\/\/gamejolt.com",
+            "description": "Plataforma social para descubrir y compartir juegos independientes.",
+            "keywords": [
+                "juegos",
+                "indie",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 100,
+            "title": "Zoho",
+            "url": "https:\/\/www.zoho.com",
+            "description": "Plataforma de aplicaciones empresariales y productividad en l\u00ednea.",
+            "keywords": [
+                "productividad",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 113,
+            "title": "OXXO",
+            "url": "https:\/\/www.oxxo.com",
+            "description": "Cadena mexicana de tiendas de conveniencia con servicios diversos.",
+            "keywords": [
+                "conveniencia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 347,
+            "title": "Aeon",
+            "url": "https:\/\/aeon.co",
+            "description": "Revista digital con ensayos y videos sobre filosof\u00eda, ciencia y cultura.",
+            "keywords": [
+                "filosofia",
+                "cultura",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 158,
+            "title": "INE",
+            "url": "https:\/\/www.ine.mx",
+            "description": "Instituto Nacional Electoral, encargado de organizar las elecciones en M\u00e9xico.",
+            "keywords": [
+                "elecciones",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 123,
+            "title": "Rolcar",
+            "url": "https:\/\/www.rolcar.com.mx",
+            "description": "Distribuidor mayorista de autopartes y refacciones en M\u00e9xico.",
+            "keywords": [
+                "refacciones",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 111,
+            "title": "Cin\u00e9polis",
+            "url": "https:\/\/www.cinepolis.com",
+            "description": "Cadena mexicana de cines, la m\u00e1s grande de Am\u00e9rica Latina.",
+            "keywords": [
+                "entretenimiento",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 177,
+            "title": "Gobierno de Sinaloa",
+            "url": "https:\/\/www.sinaloa.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Sinaloa.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 95,
+            "title": "Zumper",
+            "url": "https:\/\/www.zumper.com",
+            "description": "Plataforma de alquiler de propiedades y apartamentos.",
+            "keywords": [
+                "alquiler",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 104,
+            "title": "Zola",
+            "url": "https:\/\/www.zola.com",
+            "description": "Plataforma de bodas en l\u00ednea para planificar y organizar eventos.",
+            "keywords": [
+                "bodas",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 306,
+            "title": "Glassdoor",
+            "url": "https:\/\/www.glassdoor.com",
+            "description": "Plataforma de b\u00fasqueda de empleo y rese\u00f1as de empresas.",
+            "keywords": [
+                "empleo",
+                "rese\u00f1as",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 87,
+            "title": "QuickBooks",
+            "url": "https:\/\/www.quickbooks.intuit.com",
+            "description": "Portal de viajes y alojamiento en diversos destinos.",
+            "keywords": [
+                "contabilidad",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 168,
+            "title": "Gobierno de Yucat\u00e1n",
+            "url": "https:\/\/www.yucatan.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Yucat\u00e1n.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 232,
+            "title": "Envato Market",
+            "url": "https:\/\/market.envato.com",
+            "description": "Suite de mercados digitales para recursos creativos y desarrollo web.",
+            "keywords": [
+                "dise\u00f1o",
+                "desarrollo",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 222,
+            "title": "Babbel",
+            "url": "https:\/\/www.babbel.com",
+            "description": "App de aprendizaje de idiomas con enfoque en conversaci\u00f3n pr\u00e1ctica.",
+            "keywords": [
+                "educacion",
+                "idiomas",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 318,
+            "title": "We Work Remotely",
+            "url": "https:\/\/weworkremotely.com",
+            "description": "Portal de empleos remotos en diversas industrias.",
+            "keywords": [
+                "empleo",
+                "remoto",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 329,
+            "title": "Remote.co",
+            "url": "https:\/\/remote.co",
+            "description": "Portal de empleos remotos en diversas industrias.",
+            "keywords": [
+                "empleo",
+                "remoto",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 132,
+            "title": "Refaccionaria La Econ\u00f3mica",
+            "url": "https:\/\/www.laeconomicaoax.mx",
+            "description": "Venta de refacciones a precio accesible en la regi\u00f3n de Valles Centrales.",
+            "keywords": [
+                "autopartes",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 348,
+            "title": "Open Culture",
+            "url": "https:\/\/www.openculture.com",
+            "description": "Recursos educativos gratuitos, incluyendo cursos, libros y pel\u00edculas.",
+            "keywords": [
+                "educacion",
+                "recursos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 267,
+            "title": "Banco Multiva",
+            "url": "https:\/\/www.multiva.com.mx",
+            "description": "Banco mexicano que proporciona servicios financieros como cuentas de ahorro, cr\u00e9ditos, inversiones y seguros.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "ahorro",
+                "cr\u00e9ditos",
+                "inversiones",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 194,
+            "title": "Gobierno de Guerrero",
+            "url": "https:\/\/www.guerrero.gob.mx",
+            "description": "Portal oficial del Gobierno del Estado de Guerrero.",
+            "keywords": [
+                "gobierno",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 219,
+            "title": "FutureLearn",
+            "url": "https:\/\/www.futurelearn.com",
+            "description": "Plataforma brit\u00e1nica de educaci\u00f3n en l\u00ednea con cursos de universidades reconocidas.",
+            "keywords": [
+                "educacion",
+                "mooc",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 210,
+            "title": "RPG Maker",
+            "url": "https:\/\/www.rpgmakerweb.com",
+            "description": "Serie de programas para crear juegos de rol sin necesidad de programaci\u00f3n avanzada.",
+            "keywords": [
+                "desarrollo",
+                "juegos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 323,
+            "title": "PeoplePerHour",
+            "url": "https:\/\/www.peopleperhour.com",
+            "description": "Plataforma de freelancers para trabajos por hora.",
+            "keywords": [
+                "empleo",
+                "freelance",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 338,
+            "title": "Discovery Channel",
+            "url": "https:\/\/www.discovery.com",
+            "description": "Canal de televisi\u00f3n y sitio web con documentales y programas educativos.",
+            "keywords": [
+                "documentales",
+                "educacion",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 307,
+            "title": "LinkedIn Jobs",
+            "url": "https:\/\/www.linkedin.com\/jobs",
+            "description": "Secci\u00f3n de empleos de LinkedIn para buscar oportunidades laborales.",
+            "keywords": [
+                "empleo",
+                "red",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 74,
+            "title": "Vimeo",
+            "url": "https:\/\/www.vimeo.com",
+            "description": "Recursos de informaci\u00f3n sobre salud, enfermedades y bienestar.",
+            "keywords": [
+                "videos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 59,
+            "title": "Dailymotion",
+            "url": "https:\/\/www.dailymotion.com",
+            "description": "Plataforma de blogging que permite a escritores compartir art\u00edculos en m\u00faltiples categor\u00edas.",
+            "keywords": [
+                "videos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 117,
+            "title": "AutoCosmos",
+            "url": "https:\/\/www.autocosmos.com.mx",
+            "description": "Portal l\u00edder de informaci\u00f3n automotriz, precios y comparativas de veh\u00edculos en M\u00e9xico.",
+            "keywords": [
+                "autos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 289,
+            "title": "Belmond Maroma",
+            "url": "https:\/\/www.belmond.com\/maroma",
+            "description": "Resort de lujo en la Riviera Maya con playa privada, spa y experiencias culturales.",
+            "keywords": [
+                "hoteles",
+                "cultural",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 255,
+            "title": "Banco Inbursa",
+            "url": "https:\/\/www.inbursa.com",
+            "description": "Banco mexicano que ofrece una amplia gama de servicios financieros, incluyendo cuentas de ahorro, tarjetas de cr\u00e9dito, pr\u00e9stamos personales y soluciones de inversi\u00f3n adaptadas a las necesidades de sus clientes.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "cuentas",
+                "tarjetas",
+                "pr\u00e9stamos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 204,
+            "title": "Xbox Game Pass",
+            "url": "https:\/\/www.xbox.com\/xbox-game-pass",
+            "description": "Servicio de suscripci\u00f3n con acceso a una biblioteca de m\u00e1s de 100 juegos.",
+            "keywords": [
+                "juegos",
+                "streaming",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 90,
+            "title": "Zoho",
+            "url": "https:\/\/www.zoho.com",
+            "description": "Plataforma de aplicaciones empresariales y productividad en l\u00ednea.",
+            "keywords": [
+                "productividad",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 275,
+            "title": "Banco Forjadores",
+            "url": "https:\/\/www.forjadores.com.mx",
+            "description": "Banco mexicano enfocado en microfinanzas, proporcionando cr\u00e9ditos accesibles y servicios de ahorro para emprendedores y peque\u00f1as empresas.",
+            "keywords": [
+                "banco",
+                "finanzas",
+                "microfinanzas",
+                "cr\u00e9ditos",
+                "emprendedores",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 340,
+            "title": "HowStuffWorks",
+            "url": "https:\/\/www.howstuffworks.com",
+            "description": "Sitio web que explica c\u00f3mo funcionan las cosas en el mundo.",
+            "keywords": [
+                "educacion",
+                "curiosidades",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 310,
+            "title": "Monster",
+            "url": "https:\/\/www.monster.com",
+            "description": "Portal de empleo con ofertas y recursos para la carrera profesional.",
+            "keywords": [
+                "empleo",
+                "recursos",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 101,
+            "title": "Zara Home",
+            "url": "https:\/\/www.zarahome.com",
+            "description": "Tienda en l\u00ednea de art\u00edculos para el hogar y decoraci\u00f3n.",
+            "keywords": [
+                "hogar",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 86,
+            "title": "Crunchbase",
+            "url": "https:\/\/www.crunchbase.com",
+            "description": "Plataforma de aprendizaje en l\u00ednea con cursos de varias disciplinas.",
+            "keywords": [
+                "startups",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 60,
+            "title": "NPR",
+            "url": "https:\/\/www.npr.org",
+            "description": "Repositorio de c\u00f3digo y plataforma de colaboraci\u00f3n para desarrolladores de software.",
+            "keywords": [
+                "noticias",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 337,
+            "title": "BBC Earth",
+            "url": "https:\/\/www.bbcearth.com",
+            "description": "Contenido sobre la naturaleza y la vida salvaje del planeta.",
+            "keywords": [
+                "naturaleza",
+                "documentales",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 97,
+            "title": "Zara",
+            "url": "https:\/\/www.zara.com",
+            "description": "Tienda de moda y ropa para hombres, mujeres y ni\u00f1os.",
+            "keywords": [
+                "moda",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 231,
+            "title": "Creative Market",
+            "url": "https:\/\/creativemarket.com",
+            "description": "Mercado de recursos digitales para dise\u00f1adores y creativos.",
+            "keywords": [
+                "dise\u00f1o",
+                "recursos",
+                "Mx"
+            ],
+            "likes": 1,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [
+                    "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMzAuMC4wLjAtMTM2Nng3NjgtZXMtNDE5"
+                ],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 290,
+            "title": "Las Alcobas Polanco",
+            "url": "https:\/\/www.lasalcobasmexico.com",
+            "description": "Hotel boutique de lujo en el coraz\u00f3n de Polanco, Ciudad de M\u00e9xico, con servicio personalizado.",
+            "keywords": [
+                "hoteles",
+                "boutique",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 314,
+            "title": "Hired",
+            "url": "https:\/\/hired.com",
+            "description": "Plataforma que conecta a profesionales de tecnolog\u00eda con empleadores.",
+            "keywords": [
+                "empleo",
+                "tecnologia",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 27,
+            "title": "CNN",
+            "url": "https:\/\/www.cnn.com",
+            "description": "Canal de noticias mundial, conocido por su cobertura de eventos en vivo y an\u00e1lisis.",
+            "keywords": [
+                "noticias",
+                "Mx"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        },
+        {
+            "id": 356,
+            "title": "peueba",
+            "description": "esta es una prueba",
+            "url": "https:\/\/www.prueba.com",
+            "keywords": [
+                "prueba",
+                "probando",
+                "puebitas"
+            ],
+            "likes": 0,
+            "dislikes": 0,
+            "userInteractions": {
+                "likedBy": [],
+                "dislikedBy": []
+            }
+        }
+    ]
+}
